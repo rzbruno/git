@@ -1,0 +1,33 @@
+[xmrbrz@aslab rebase_merge]$ git log
+commit fa5a01d5883372a386f42e764b8bf110aacb1be9
+Merge: 7749522 a2b4396
+Author: Bruno R. Zanuzzo <xmrbrz@fedoraproject.org>
+Date:   Mon Dec 7 01:38:29 2015 -0200
+
+    Merge branch 'feature'
+
+commit a2b4396fe03e21f1f13486fa0037de7683bb5df7
+Author: Bruno R. Zanuzzo <xmrbrz@fedoraproject.org>
+Date:   Mon Dec 7 01:38:28 2015 -0200
+
+    feature: done
+
+commit 77495227da227ab216d4ab59ca2e6ff4eed28519
+Author: Bruno R. Zanuzzo <xmrbrz@fedoraproject.org>
+Date:   Mon Dec 7 01:38:27 2015 -0200
+
+    bugfix
+
+commit 0631ed296c9773f3a2170548195d4bc918317a36
+Author: Bruno R. Zanuzzo <xmrbrz@fedoraproject.org>
+Date:   Mon Dec 7 01:38:26 2015 -0200
+
+    feature: working on
+
+commit 17ac17667b3157a366d4e556fe82099b9159bd11
+Author: Bruno R. Zanuzzo <xmrbrz@fedoraproject.org>
+Date:   Mon Dec 7 01:38:25 2015 -0200
+
+    base
+[xmrbrz@aslab rebase_merge]$ 
+
